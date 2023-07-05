@@ -1,0 +1,199 @@
+/* Footer columns */
+.footer .col {
+  width: 25%;
+  padding: 0 50px;
+}
+
+/* Footer headings */
+.footer h5 {
+  color: #333;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-align: left; /* Align the header text to the left */
+}
+
+/* Footer links */
+.footer ul {
+  /* list-style: none; */
+  padding: 0;
+  margin: 0;
+}
+
+.footer ul li {
+  margin-bottom: 10px;
+  text-align: left; /* Align the sub-listings to the left */
+}
+
+.footer ul li a {
+  color:black;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.footer ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Footer form */
+.footer form {
+  margin-top: 10px;
+}
+
+.footer form input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.footer form button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.footer form button:hover {
+  background-color: #555;
+}
+
+/* Footer contact details */
+.footer ul.contact-details li {
+  margin-bottom: 5px;
+  text-align: left; /* Align the contact details to the left */
+}
+
+
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-right: 50px;
+}
+.social-icons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.social-icons li:last-child {
+  margin-right: 0; 
+}
+
+.social-icons a {
+  display: block;
+  width: 24px;  /* Decrease the width */
+  height: 24px; /* Decrease the height */
+  /* background-color: #000; */
+  color: #fff;
+  /* text-align: center; */
+  line-height: 24px;
+  text-decoration: none;
+  border-radius: 50%;
+
+}
+.social-icons a img {
+  width: 100%;  /* Make the image fit within the anchor element */
+  height: auto; /* Preserve the aspect ratio */
+  margin-right: 50px;
+}
+
+.social-icons li {
+  margin-right: 20px; /* Add equal margin right to create equal spacing between icons */
+ }  
+
+
+footer {
+  background-image: url("C:/Users/LAPTOP-32/Desktop/tourbuddy 3/TourBuddy/src/images/footerbg4.jpg");
+  background-repeat: no-repeat;
+  background-position: 0%;
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  color: #fff;
+  border: 5px solid plum;
+  border-radius: 5px;
+   margin-top: 20px;
+margin-bottom: -254px;
+  }
+
+
+  .footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-links li a:hover {
+    color: orange;
+  }
+ 
+  /* Customize styles */
+  .footer-links li a {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman', serif;
+    
+  }
+  
+  .footer-email-signup input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+  }
+  
+  .footer-email-signup button[type="submit"] {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    color: lawngreen;
+     }
+  
+  .footer-email-signup button[type="submit"]:hover {
+    background-color: #FF6666;
+  }
+  
+  .email-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px; /* Adjust the value to change the border radius */
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    border-bottom: 6px solid red;
+    border-style: dashed;
+  }
+  
+
+  .centered {
+    color: black;
+    font-style: italic;
+    font-family: Arial, sans-serif;
+  }
+
+  .follow-us-heading {
+    color: #FF0000;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+  }
+  
+
+ 
+  
+  .social-media-community {
+    color:darkmagenta; /* Change the text color */
+    font-size: 20px; /* Change the font size */
+    font-family: Arial, sans-serif; /* Change the font family */
+  }
+
+
+  .footer-bottom {
+    background-color: lightgray; /* Replace with your desired background color */
+   height: 50px;
+    
+  }
+  

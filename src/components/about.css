@@ -1,0 +1,58 @@
+.about-container {
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  color: rgb(14, 16, 12);
+  margin-bottom: 50px;
+  /* background-color: rgb(237, 245, 237); */
+  .about-container {
+    /* background-image: url('C:/Users/ok/Desktop/TourBuddy/src/images/watermark.jpg'); */
+    background-size: cover;
+    background-position: center;
+    /* Other styles for the container */
+  }
+  
+}
+
+.about-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.about-description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+  background-color: rgb(136, 240, 218);
+  justify-content: center;
+}
+.about-image {
+  width: 100vw;
+  padding-top: 150px;
+  background-color: blanchedalmond;
+}
+.about-image img{
+  width: 600px;
+}
+.about-background img{
+  
+  /* object-fit: cover;
+  background-repeat: no-repeat;
+  width: 100%; */
+
+  /* position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover; */
+background-image: '/images/watermark.jpg';
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+  
